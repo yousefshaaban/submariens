@@ -1,0 +1,4 @@
+[submodule "submodule/test2"]
+	path = submodule/test2
+	url = https://github.com/youssefshaaban/test2.git
+	branch = develop
